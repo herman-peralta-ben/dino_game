@@ -2,6 +2,9 @@
 
 This is a demo repo for how to build Chrome's Dino game in vanilla Flutter.
 
+## Update to 2025 Flutter
+* Sound null-safety
+
 ## Video
 
 This repo corresponds with this YouTube video: https://youtu.be/YlYF1ZdFrp4
