@@ -2,7 +2,7 @@
 
 This is a demo repo for how to build Chrome's Dino game in vanilla Flutter.
 
-## Update to Flutter 3.25 (2025)
+## (June 2025) Update to Flutter 3.29.3 and  3.7.2
 Forked to experiment with the game and update Flutter and Dart.
 
 * Sound null-safety
