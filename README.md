@@ -2,7 +2,7 @@
 
 This is a demo repo for how to build Chrome's Dino game in vanilla Flutter.
 
-## Update to 2025 Flutter
+## Update to Flutter 3.25 (2025)
 Forked to experiment with the game and update Flutter and Dart.
 
 * Sound null-safety
@@ -10,7 +10,17 @@ Forked to experiment with the game and update Flutter and Dart.
 ```bash
 rm -rf android
 flutter create .
-``` 
+```
+
+| Android |   iOS   | Web     | MacOS     | Linux (Ubuntu)   |
+|---------|---------|---------|---------|---------|
+| ![Android Screenshot](doc/android.png) | ![iOS Screenshot](doc/ios.png) | ![Web Screenshot](doc/web.png) | ![MacOS Screenshot](doc/macos.png) | ![Linux (Ubuntu) Screenshot](doc/linux.png) |
+
+<!-- GitHub-flavored Markdown (GFM) to force image sizes -->
+| Android | iOS | Web | MacOS | Linux (Ubuntu) |
+|--------|-----|-----|-----|-------|
+| <img src="doc/android.png" alt="Android screenshot" width="200"/> | <img src="doc/ios.png" alt="iOS screenshot" width="200"/> | <img src="doc/web.png" alt="Web screenshot" width="200"/> | <img src="doc/macos.png" alt="MacOS screenshot" width="200"/> | <img src="doc/linux.png" alt="Linux (Ubuntu) screenshot" width="200"/> |
+
 
 ## Video
 
