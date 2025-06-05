@@ -20,9 +20,9 @@ Forked to experiment with the game and update Flutter and Dart.
 rm -rf android
 flutter create .
 ```
-* WIP to solve iOS compilatin issue
+* iOS WIP solving compilation issues.
 
 <!-- GitHub-flavored Markdown (GFM) to force image sizes -->
-| Android | iOS | Web | MacOS | Linux (Ubuntu) |
-|--------|-----|-----|-----|-------|
-| <img src="doc/android.png" alt="Android screenshot" width="200"/> | <img src="doc/ios.png" alt="iOS screenshot" width="200"/> | <img src="doc/web.png" alt="Web screenshot" width="200"/> | <img src="doc/macos.png" alt="MacOS screenshot" width="200"/> | <img src="doc/linux.png" alt="Linux (Ubuntu) screenshot" width="200"/> |
+| Android | Web | MacOS | Linux (Ubuntu) |
+|--------|-----|-----|-------|
+| <img src="doc/android.png" alt="Android screenshot" width="200"/> | <img src="doc/web.png" alt="Web screenshot" width="200"/> | <img src="doc/macos.png" alt="MacOS screenshot" width="200"/> | <img src="doc/linux.png" alt="Linux (Ubuntu) screenshot" width="200"/> |
